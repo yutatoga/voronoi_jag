@@ -1,0 +1,673 @@
+Tvoronoi_jag
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/Info.plist /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/openFrameworks-Info.plist
+cCompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005270E94C000000000000044C
+t1383131468
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005270E94C00000000000001DB
+t1383131468
+s475
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.o
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp
+c000000004F0C80240000000000006658
+t1326219300
+s26200
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/Info.plist
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/openFrameworks-Info.plist
+c0000000052E5048900000000000002A5
+t1390740617
+s677
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp
+c0000000052E504890000000000000159
+t1390740617
+s345
+
+N/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp
+c0000000052E504EF00000000000008CF
+t1390740719
+s2255
+
+CBuild AST from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp
+r0
+
+CBuild AST from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp
+r0
+
+CBuild AST from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies97584d903c95b841^219453903c95b841^---0#1#1#--18"Check dependencies36"039F47E8-601A-4988-87C8-FC32A6B62978-
+
+CCompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412433552.338778
+e412433553.532400
+r1
+xCompileC
+xBuild/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.o
+x/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/ofMain.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/glew/include/GL/glew.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/tess2/include/tesselator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/File.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Foundation.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Config.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Types.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Timestamp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofLog.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofColor.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofPoint.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Exception.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofThread.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Runnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEvents.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Condition.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Path.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofXml.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XML.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/Name.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Any.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofSerial.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofArduino.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofLight.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofShader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-features.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-version.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-svg.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_codec.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_dsp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_errors.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+oclang: warning: -lpthread: 'linker' input unused
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp215"CompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.o Voronoi_OK/VoronoiDiagramGenerator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler20cf56903c95b841^5e4b88913c95b841^-49"clang: warning: -lpthread: 'linker' input unused-0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp0000000000000000^3644"CompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.o Voronoi_OK/VoronoiDiagramGenerator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/voronoi_jagDebug.hmap -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/DerivedSources/i386 -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/DerivedSources -F/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin -F/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.d --serialize-diagnostics /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.dia -c /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Voronoi_OK/VoronoiDiagramGenerator.cpp -o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/VoronoiDiagramGenerator.o36"D8C737BA-67B1-4272-BAEA-DFD6860188FB-
+b43ADB23B-C18A-45BC-AE01-ED058859D76B
+
+CCompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412433552.338771
+e412433553.694185
+r0
+xCompileC
+xBuild/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.o
+x/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/ofMain.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/glew/include/GL/glew.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/tess2/include/tesselator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/File.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Foundation.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Config.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Types.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Timestamp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofLog.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofColor.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofPoint.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Exception.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofThread.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Runnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEvents.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Condition.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Path.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofXml.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XML.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/Name.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Any.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofSerial.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofArduino.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofLight.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofShader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-features.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-version.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-svg.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_codec.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_dsp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_errors.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h
+oclang: warning: -lpthread: 'linker' input unused
+oIn file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp:2:
+o/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h:23:2: error: unknown type name 'VoronoiDiagramGenerator'
+o        VoronoiDiagramGenerator vdg;
+o        ^
+o/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp:11:2: error: no matching function for call to 'ofRunApp'
+o        ofRunApp(new testApp());
+o        ^~~~~~~~
+oIn file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp:1:
+oIn file included from ../../../libs/openFrameworks/ofMain.h:67:
+o../../../libs/openFrameworks/app/ofAppRunner.h:16:8: note: candidate function not viable: no known conversion from 'testApp *' to 'ofPtr<ofBaseApp>' for 1st argument
+ovoid            ofRunApp(ofPtr<ofBaseApp> OFSA);
+o                ^
+o../../../libs/openFrameworks/app/ofAppRunner.h:17:8: note: candidate function not viable: no known conversion from 'testApp *' to 'ofBaseApp *' for 1st argument
+ovoid            ofRunApp(ofBaseApp * OFSA = NULL); // will be deprecated
+o                ^
+o2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp170"CompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerffce56903c95b841^5fb6b1913c95b841^-1236"clang: warning: -lpthread: 'linker' input unusedIn file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp:2:/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h:23:2: error: unknown type name 'VoronoiDiagramGenerator'        VoronoiDiagramGenerator vdg;        ^/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp:11:2: error: no matching function for call to 'ofRunApp'        ofRunApp(new testApp());        ^~~~~~~~In file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp:1:In file included from ../../../libs/openFrameworks/ofMain.h:67:../../../libs/openFrameworks/app/ofAppRunner.h:16:8: note: candidate function not viable: no known conversion from 'testApp *' to 'ofPtr<ofBaseApp>' for 1st argumentvoid            ofRunApp(ofPtr<ofBaseApp> OFSA);                ^../../../libs/openFrameworks/app/ofAppRunner.h:17:8: note: candidate function not viable: no known conversion from 'testApp *' to 'ofBaseApp *' for 1st argumentvoid            ofRunApp(ofBaseApp * OFSA = NULL); // will be deprecated                ^2 errors generated.2(36%IDEClangDiagnosticActivityLogMessage2@43"Unknown type name 'VoronoiDiagramGenerator'-412433553#18446744073709551615#0#1(2@113"In file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp:2:-412433553#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@104"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp0000000000000000^1#9#1#9#29#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@105"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h0000000000000000^22#1#22#1#488#0#11"Parse Issue--2@43"No matching function for call to 'ofRunApp'-412433553#18446744073709551615#0#2(2@106"Candidate function not viable: no known conversion from 'testApp *' to 'ofPtr<ofBaseApp>' for 1st argument-412433553#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppRunner.h0000000000000000^15#7#15#7#482#0#14"Semantic Issue--2@101"Candidate function not viable: no known conversion from 'testApp *' to 'ofBaseApp *' for 1st argument-412433553#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppRunner.h0000000000000000^16#7#16#7#522#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp0000000000000000^10#1#10#1#317#0#14"Semantic Issue1(3@104"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp0000000000000000^10#1#10#9#317#0#-0#0#1#-19%DVTDocumentLocation4@104"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp0000000000000000^3516"CompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/voronoi_jagDebug.hmap -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/DerivedSources/i386 -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/DerivedSources -F/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin -F/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.dia -c /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/main.cpp -o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/main.o36"474CB343-5BDE-445E-9A1C-50310C488656-
+b43ADB23B-C18A-45BC-AE01-ED058859D76B
+
+CCompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412433552.338781
+e412433553.710847
+r0
+xCompileC
+xBuild/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.o
+x/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/ofMain.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/glew/include/GL/glew.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/tess2/include/tesselator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/File.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Foundation.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Config.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Types.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Timestamp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofLog.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofColor.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofPoint.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Exception.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofThread.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Runnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEvents.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Condition.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Path.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofXml.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XML.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/Name.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameter.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/poco/include/Poco/Any.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofSerial.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofArduino.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofLight.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofNode.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofShader.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-features.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-version.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-svg.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_codec.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_dsp.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/fmodex/include/fmod_errors.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+oclang: warning: -lpthread: 'linker' input unused
+oIn file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp:1:
+o/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h:23:2: error: unknown type name 'VoronoiDiagramGenerator'
+o        VoronoiDiagramGenerator vdg;
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp176"CompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilere2cd56903c95b841^c45db9913c95b841^-379"clang: warning: -lpthread: 'linker' input unusedIn file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp:1:/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h:23:2: error: unknown type name 'VoronoiDiagramGenerator'        VoronoiDiagramGenerator vdg;        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@43"Unknown type name 'VoronoiDiagramGenerator'-412433553#18446744073709551615#0#1(2@116"In file included from /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp:1:-412433553#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@105"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.h0000000000000000^22#1#22#1#488#0#11"Parse Issue--0#0#1#-19%DVTDocumentLocation4@107"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp0000000000000000^3534"CompileC Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/voronoi_jagDebug.hmap -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/DerivedSources/i386 -I/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/DerivedSources -F/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin -F/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.d --serialize-diagnostics /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.dia -c /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/src/testApp.cpp -o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Objects-normal/i386/testApp.o36"241E2F06-66A2-44CC-8D0C-4685F7975E7B-
+b43ADB23B-C18A-45BC-AE01-ED058859D76B
+
+CLd /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/MacOS/voronoi_jagDebug normal i386
+r0
+
+CPBXCp /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework bin/voronoi_jagDebug.app/Contents/Frameworks/GLUT.framework
+r0
+
+CPhaseScriptExecution Run\ Script /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/Build/Intermediates/voronoi_jag.build/Debug/voronoi_jag.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+r0
+
+CProcessInfoPlistFile /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/Info.plist /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/openFrameworks-Info.plist
+s412433552.328499
+e412433552.330853
+r1
+xProcessInfoPlistFile
+x/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/Info.plist
+x/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/openFrameworks-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Process /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/openFrameworks-Info.plist91"ProcessInfoPlistFile bin/voronoi_jagDebug.app/Contents/Info.plist openFrameworks-Info.plist252254903c95b841^1dca54903c95b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/openFrameworks-Info.plist0000000000000000^598"ProcessInfoPlistFile bin/voronoi_jagDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag    builtin-infoPlistUtility /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/openFrameworks-Info.plist -genpkginfo /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app/Contents/Info.plist36"A1489D0D-ADD9-4425-BA51-9EFF1D40CA0F-
+b43ADB23B-C18A-45BC-AE01-ED058859D76B
+
+CTouch /Users/gentleman/Developer/oF/of_v0.8.0_osx_release/apps/myApps/voronoi_jag/bin/voronoi_jagDebug.app
+r0
+
