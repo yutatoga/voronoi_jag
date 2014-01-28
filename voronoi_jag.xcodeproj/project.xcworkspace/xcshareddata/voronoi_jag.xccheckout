@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74464AA5-3C6E-48E9-B81B-141D8A7A4BA4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>voronoi_jag</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>87013387-197B-4853-A2D9-6E891A0EDAC4</key>
+		<string>ssh://bitbucket.org/yutatoga/voronoi_jag.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>voronoi_jag.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>87013387-197B-4853-A2D9-6E891A0EDAC4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/yutatoga/voronoi_jag.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>87013387-197B-4853-A2D9-6E891A0EDAC4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>87013387-197B-4853-A2D9-6E891A0EDAC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>voronoi_jag</string>
+		</dict>
+	</array>
+</dict>
+</plist>

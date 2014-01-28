@@ -52,6 +52,7 @@ void testApp::update(){
 
 //--------------------------------------------------------------
 void testApp::draw(){
+	
     ofBackgroundGradient(ofColor(255), ofColor(0));
 	
 	ofDrawBitmapString("fps   : "+ofToString(ofGetFrameRate()), 10, 50);
@@ -162,7 +163,14 @@ void testApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void testApp::mousePressed(int x, int y, int button){
-    
+	int voronoiNumber = ofRandom(10, 100);
+	for (int i = 0; i<voronoiNumber; i++) {
+		//サイン波を使う
+		float theta = ofRandom(0, 2*pi);
+		float amplitude = 100*pow(ofRandom(0,1), 2);
+		xValues.push_back(sin(theta)*amplitude+x-ofGetWidth()/2.0);
+		yValues.push_back(cos(theta)*amplitude+y-ofGetHeight()/2.0);
+	}
 }
 
 //--------------------------------------------------------------
