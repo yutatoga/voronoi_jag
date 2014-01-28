@@ -27,8 +27,14 @@ class testApp : public ofBaseApp{
     
     //voronoi
 	VoronoiDiagramGenerator vdg;
-	int count;
 	
 	vector<float> xValues;
 	vector<float> yValues;
+    
+    //上からかぶせる陰画像
+    ofImage shadowImage;
+	
+	//count
+	int counter;
+    
 };

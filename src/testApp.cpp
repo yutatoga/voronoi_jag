@@ -2,56 +2,105 @@
 
 //--------------------------------------------------------------
 void testApp::setup(){
+    ofSetFullscreen(true);
+	counter = 0;
     //voronoi
 //	ofBackground(191,191,191);
     
-	xValues.push_back(mouseX-ofGetWidth()/2);
-	yValues.push_back(mouseY-ofGetHeight()/2);
-	count = 1;
+	int voronoiNumber = 100;
+    
+//	ofLog(OF_LOG_NOTICE, ofToString(sin(pi/2)));
+//    for (int i = 0; i<voronoiNumber; i++) {
+		//完全ランダム
+//        xValues.push_back(ofRandom(-ofGetWidth()/2+10, ofGetWidth()/2-10));
+//        yValues.push_back(ofRandom(-ofGetHeight()/2+10,ofGetHeight()/2-10));
+		
+		//逆になった
+//        float thetaX = ofRandom(0, 2*pi);
+//		xValues.push_back(sin(ofRandom(0, 2*pi)-pi/2.0)*ofGetWidth()/3.0);
+//
+//		float thetaY = ofRandom(0, 2*pi);
+//        yValues.push_back(sin(ofRandom(0, 2*pi)-pi/2.0)*ofGetHeight()/3.0);
+		
+		//サイン波を使う
+//		float theta = ofRandom(0, 2*pi);
+//		float amplitude = 1000*pow(ofRandom(0,1), 2);
+//		xValues.push_back(sin(theta)*amplitude);
+//		yValues.push_back(cos(theta)*amplitude);
+		
+//    }
     
     //jaggy line
-    ofSetFullscreen(true);
     for (int i =0; i<1000; i++) {
         randomVector.push_back(ofRandom(-1, 1));
     }
+    
+    //陰の画像
+    //α値を使用する
+    ofEnableAlphaBlending();
+//    shadowImage.loadImage("shadow_75_50.png");
+//    shadowImage.loadImage("mona.jpg")fffffffffff;
 }
 
 //--------------------------------------------------------------
 void testApp::update(){
-	vdg.generateVoronoi(xValues,yValues,count, -ofGetWidth()/2,ofGetWidth()/2,-ofGetHeight()/2,ofGetHeight()/2,3);
-	vdg.resetIterator();
+	if (xValues.size() != 0) {
+		vdg.generateVoronoi(xValues, yValues, xValues.size(), -ofGetWidth()/2,ofGetWidth()/2,-ofGetHeight()/2,ofGetHeight()/2,3);
+		vdg.resetIterator();
+	}
 }
 
 //--------------------------------------------------------------
 void testApp::draw(){
     ofBackgroundGradient(ofColor(255), ofColor(0));
-    
-    ofSetColor(0, 90, 60);
 	
-	ofDrawBitmapString("fps: "+ofToString(ofGetFrameRate()), 10, 10);
-//	
-//	ofPushMatrix();
-//	ofTranslate(ofGetWidth()/2, ofGetHeight()/2, 0);
+	ofDrawBitmapString("fps   : "+ofToString(ofGetFrameRate()), 10, 50);
+    ofDrawBitmapString("point : "+ofToString(xValues.size()), 10, 60);
+	ofDrawBitmapString("couner: "+ofToString(counter), 10, 70);
 	
-//	ofFill();
-//	for(int i=0; i<count; i++) {
-//		ofCircle(xValues[i], yValues[i], 5);
-//	}
-//	ofPopMatrix();
-	
-	
-	float x1,y1,x2,y2;
-	ofPushMatrix();
-	ofTranslate(ofGetWidth()/2, ofGetHeight()/2, 0);
-    ofPushStyle();
-    ofSetColor(255);
-	while(vdg.getNext(x1,y1,x2,y2))
-	{
-//		ofLine(x1, y1, x2, y2);
-        noiseLine(x1, y1, x2, y2, 3, 50);
+	if (xValues.size() != 0) {
+		ofPushMatrix();
+		ofTranslate(ofGetWidth()/2, ofGetHeight()/2, 0);
+		ofFill();
+		ofPushStyle();
+		ofSetColor(255, 127, 127);
+		for(int i=0; i<xValues.size(); i++) {
+			ofCircle(xValues[i], yValues[i], 5);
+		}
+		ofPopStyle();
+		ofPopMatrix();
+		
+		
+		float x1,y1,x2,y2;
+		ofPushMatrix();
+		ofTranslate(ofGetWidth()/2, ofGetHeight()/2, 0);
+		ofPushStyle();
+		ofSetColor(255);
+		while(vdg.getNext(x1,y1,x2,y2))
+		{
+			//      線分
+			//		ofLine(x1, y1, x2, y2);
+			//ギザギザ線
+			if (ofDist(x1, y1, 0, 0) < counter) {
+				noiseLine(x1, y1, x2, y2, 3, 50);
+			}
+		}
+		ofPopStyle();
+		ofPopMatrix();
 	}
+
+//影の円形グラーデーション画像を重ねてひびが広がるのを試す >> 失敗につき、コメントアウト
+//    float oneSize = ofGetWidth()*count/3;
+//    shadowImage.draw((ofGetWidth()-oneSize)/2.0f, (ofGetHeight()-oneSize)/2.0f, oneSize, oneSize);
+    
+    
+    
+    //guideline
+    ofPushStyle();
+    ofSetColor(255, 0, 0);
+    ofLine(ofGetWidth()/2.0f, 0, ofGetWidth()/2.0f, ofGetHeight());
+    ofLine(0, ofGetHeight()/2.0f, ofGetWidth(), ofGetHeight()/2.0f);
     ofPopStyle();
-	ofPopMatrix();
 }
 
 
@@ -90,9 +139,7 @@ void testApp::noiseLine(float x1, float y1, float x2, float y2, float amplitude,
 
 //--------------------------------------------------------------
 void testApp::keyPressed(int key){
-    xValues.push_back(ofRandom(-ofGetWidth()/2+10, ofGetWidth()/2-10));
-	yValues.push_back(ofRandom(-ofGetHeight()/2+10,ofGetHeight()/2-10));
-	count++;
+	counter += 10;
 }
 
 //--------------------------------------------------------------
@@ -102,8 +149,10 @@ void testApp::keyReleased(int key){
 
 //--------------------------------------------------------------
 void testApp::mouseMoved(int x, int y ){
-    xValues[0] = (x-ofGetWidth()/2);
-	yValues[0] = (y-ofGetHeight()/2);
+	if (xValues.size() != 0) {
+		xValues[0] = (x-ofGetWidth()/2);
+		yValues[0] = (y-ofGetHeight()/2);
+	}
 }
 
 //--------------------------------------------------------------
