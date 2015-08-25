@@ -2,6 +2,7 @@
 
 //--------------------------------------------------------------
 void testApp::setup(){
+	ofSetVerticalSync(true);
     ofSetFullscreen(true);
 	counter = 0;
     //voronoi
@@ -40,6 +41,9 @@ void testApp::setup(){
     ofEnableAlphaBlending();
 //    shadowImage.loadImage("shadow_75_50.png");
 //    shadowImage.loadImage("mona.jpg")fffffffffff;
+	
+	//sound
+	player.loadSound("bang.wav");
 }
 
 //--------------------------------------------------------------
@@ -55,21 +59,21 @@ void testApp::draw(){
 	
     ofBackgroundGradient(ofColor(255), ofColor(0));
 	
-	ofDrawBitmapString("fps   : "+ofToString(ofGetFrameRate()), 10, 50);
-    ofDrawBitmapString("point : "+ofToString(xValues.size()), 10, 60);
-	ofDrawBitmapString("couner: "+ofToString(counter), 10, 70);
+//	ofDrawBitmapString("fps   : "+ofToString(ofGetFrameRate()), 10, 50);
+//	ofDrawBitmapString("point : "+ofToString(xValues.size()), 10, 60);
+//	ofDrawBitmapString("couner: "+ofToString(counter), 10, 70);
 	
 	if (xValues.size() != 0) {
-		ofPushMatrix();
-		ofTranslate(ofGetWidth()/2, ofGetHeight()/2, 0);
-		ofFill();
-		ofPushStyle();
-		ofSetColor(255, 127, 127);
-		for(int i=0; i<xValues.size(); i++) {
-			ofCircle(xValues[i], yValues[i], 5);
-		}
-		ofPopStyle();
-		ofPopMatrix();
+//		ofPushMatrix();
+//		ofTranslate(ofGetWidth()/2, ofGetHeight()/2, 0);
+//		ofFill();
+//		ofPushStyle();
+//		ofSetColor(255, 127, 127);
+//		for(int i=0; i<xValues.size(); i++) {
+//			ofCircle(xValues[i], yValues[i], 5);
+//		}
+//		ofPopStyle();
+//		ofPopMatrix();
 		
 		
 		float x1,y1,x2,y2;
@@ -82,9 +86,14 @@ void testApp::draw(){
 			//      線分
 			//		ofLine(x1, y1, x2, y2);
 			//ギザギザ線
-			if (ofDist(x1, y1, 0, 0) < counter) {
-				noiseLine(x1, y1, x2, y2, 3, 50);
+//			if (ofDist(x1, y1, 0, 0) < counter) {
+			int lineNumber = ofDist(x1, y1, x2, y2);
+			if (lineNumber == 0) {
+				lineNumber = 1;
 			}
+			ofLog(OF_LOG_NOTICE, ofToString(lineNumber));
+				noiseLine(x1, y1, x2, y2, 3, lineNumber);
+//			}
 		}
 		ofPopStyle();
 		ofPopMatrix();
@@ -97,11 +106,11 @@ void testApp::draw(){
     
     
     //guideline
-    ofPushStyle();
-    ofSetColor(255, 0, 0);
-    ofLine(ofGetWidth()/2.0f, 0, ofGetWidth()/2.0f, ofGetHeight());
-    ofLine(0, ofGetHeight()/2.0f, ofGetWidth(), ofGetHeight()/2.0f);
-    ofPopStyle();
+//    ofPushStyle();
+//    ofSetColor(255, 0, 0);
+//    ofLine(ofGetWidth()/2.0f, 0, ofGetWidth()/2.0f, ofGetHeight());
+//    ofLine(0, ofGetHeight()/2.0f, ofGetWidth(), ofGetHeight()/2.0f);
+//    ofPopStyle();
 }
 
 
@@ -110,12 +119,12 @@ void testApp::noiseLine(float x1, float y1, float x2, float y2, float amplitude,
     //(x2,y2)=終点
     //amplitude=振幅
     //lineNumber=線分の数
-    
     float distance = sqrt(pow(x2-x1, 2)+pow(y2-y1, 2));
     
     vector<ofPoint> noisePointVector;
     float X, Y;
     for (int i = 0; i<=lineNumber; i++) {
+			//始点と終点は通るようにするので、場合分け
         if (i == 0 || i == lineNumber) {
             X = i/lineNumber*(x2-x1)+x1;
             Y = i/lineNumber*(y2-y1)+y1;
@@ -140,20 +149,20 @@ void testApp::noiseLine(float x1, float y1, float x2, float y2, float amplitude,
 
 //--------------------------------------------------------------
 void testApp::keyPressed(int key){
-	counter += 10;
+//	counter += 10;
 }
 
 //--------------------------------------------------------------
 void testApp::keyReleased(int key){
-    
+		
 }
 
 //--------------------------------------------------------------
 void testApp::mouseMoved(int x, int y ){
-	if (xValues.size() != 0) {
-		xValues[0] = (x-ofGetWidth()/2);
-		yValues[0] = (y-ofGetHeight()/2);
-	}
+//	if (xValues.size() != 0) {
+//		xValues[0] = (x-ofGetWidth()/2);
+//		yValues[0] = (y-ofGetHeight()/2);
+//	}
 }
 
 //--------------------------------------------------------------
@@ -171,6 +180,7 @@ void testApp::mousePressed(int x, int y, int button){
 		xValues.push_back(sin(theta)*amplitude+x-ofGetWidth()/2.0);
 		yValues.push_back(cos(theta)*amplitude+y-ofGetHeight()/2.0);
 	}
+	player.play();
 }
 
 //--------------------------------------------------------------

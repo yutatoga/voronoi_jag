@@ -36,5 +36,7 @@ class testApp : public ofBaseApp{
 	
 	//count
 	int counter;
-    
+  
+	//sound
+	ofSoundPlayer player;
 };

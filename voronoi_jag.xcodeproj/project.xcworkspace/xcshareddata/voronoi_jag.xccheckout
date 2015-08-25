@@ -10,29 +10,29 @@
 	<string>voronoi_jag</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>87013387-197B-4853-A2D9-6E891A0EDAC4</key>
+		<key>7EC26DB7B35C1F687DB83104AE4A99EF5E9391C1</key>
 		<string>ssh://bitbucket.org/yutatoga/voronoi_jag.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>voronoi_jag.xcodeproj/project.xcworkspace</string>
+	<string>voronoi_jag.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>87013387-197B-4853-A2D9-6E891A0EDAC4</key>
+		<key>7EC26DB7B35C1F687DB83104AE4A99EF5E9391C1</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>ssh://bitbucket.org/yutatoga/voronoi_jag.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>87013387-197B-4853-A2D9-6E891A0EDAC4</string>
+	<string>7EC26DB7B35C1F687DB83104AE4A99EF5E9391C1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>87013387-197B-4853-A2D9-6E891A0EDAC4</string>
+			<string>7EC26DB7B35C1F687DB83104AE4A99EF5E9391C1</string>
 			<key>IDESourceControlWCCName</key>
 			<string>voronoi_jag</string>
 		</dict>
